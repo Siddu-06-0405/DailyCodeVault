@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
 git commit -m "yare yare"
-git push -u origin js
+git push -u origin main
